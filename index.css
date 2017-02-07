@@ -4,7 +4,7 @@
 /* background image section= */
 .bg-img{
     height: 100vh;
-    background: url(magazine/369H.jpg) center center ;
+    background: url(369H.jpg) center center ;
     background-size: cover;
     background-position: center;
     display: flex;
